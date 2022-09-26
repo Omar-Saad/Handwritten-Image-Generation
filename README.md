@@ -1,5 +1,5 @@
 # Handwritten-Image-Generation
-Handwritten numbers Image Generation using GANs.\
+Handwritten numbers Image Generation using GANs.
 
 The objective of this project is to generate handwritten images using Generative adversarial networks (GANs).
 The model consists of two parts :\
