@@ -7,13 +7,17 @@ The model consists of two parts :
 2 - Generator : The generator generate images of handwritten images and tries to fool the discrimnator by generating an image like a real one.
 
 > Output of the generator after 1 epoch: 
+
 ![alt text](/generated-images/mnist_0 (1).png)
 
 > Output of the generator after 40 epoch: 
+
 ![alt text](/generated-images/mnist_40.png)
 
 > Output of the generator after 100 epoch: 
+
 ![alt text](/generated-images/mnist_100.png)
 
 > Output of the generator after 190 epoch: 
+
 ![alt text](/generated-images/mnist_190.png)
