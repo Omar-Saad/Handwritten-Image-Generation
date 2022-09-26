@@ -21,3 +21,7 @@ The model consists of two parts :\
 > Output of the generator after 190 epochs: 
 
 ![alt text](/generated-images/mnist_190.png)
+
+You can test the model by downloading it from the 'generated models' folder./
+
+Resources : https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-an-mnist-handwritten-digits-from-scratch-in-keras/
